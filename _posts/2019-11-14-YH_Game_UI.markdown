@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 3
+date: 2019-11-14
+img: p03.png
+alt: image-alt
+project-date: November 2019
+skills: C#, Unity
+github: https://github.com/kimy0303/YH_Karukazaro
+category: Game UI
+description: Unity UI 학습을 위해 만든 Game UI
+
+
+---

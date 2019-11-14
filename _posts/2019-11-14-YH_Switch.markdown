@@ -7,7 +7,7 @@ alt: image-alt
 project-date: November 2019
 skills: C#, Unity
 github: https://github.com/kimy0303/YHSwitch
-category: Game
+category: UI
 description: Unity UI 학습을 위해 만든 스위치
 
 ---
