@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: YongYong
 email: rladydgk0303@naver.com
 url: kimy0303.github.io
 description: ""
@@ -32,9 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: 록칵퓹
+  location: 스킬
+  social: 소셜
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
