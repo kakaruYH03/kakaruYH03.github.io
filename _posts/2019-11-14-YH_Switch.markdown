@@ -5,9 +5,9 @@ date: 2019-11-14
 img: p02.png
 alt: image-alt
 project-date: November 2019
-client: Start Bootstrap
+skills: C#, Unity
+github: https://github.com/kimy0303/YHSwitch
 category: Game
-description: Unity UI 학습을 위해 만든 연락처 <a href="http://github.com/kimy0303/YH_Project/">GitHub</a>
-
+description: Unity UI 학습을 위해 만든 스위치
 
 ---
