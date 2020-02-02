@@ -1,11 +1,11 @@
 # Site settings
-title: YongYong
+title: 김용하 포트폴리오
 email: rladydgk0303@naver.com
 url: kimy0303.github.io
 description: "유니티 기반의 게임 개발자"
 keywords: "Unity, developer, C#, Game, Designer"
 skills: "C# Developer, Unity Developer, Server Developer"
-meta_author: Yong Jack
+meta_author: 김용하
 
 # Google webmaster tools
 google_verify:
@@ -25,14 +25,14 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fdf668 #프로필대문색깔
+  primary: c6e2ff #프로필대문색깔
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #상단 하단 색
   secondary-dark: 233140 #제일 하단부분
 
 # Footer settings
 footer:
-  copyright: Karuru Jack
+  copyright: Kim Yong Ha
   location: 스킬
   social: 소셜
   credits: Credits
